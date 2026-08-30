@@ -14151,7 +14151,7 @@
     "chapter": "第八章",
     "section": "第六节",
     "table_num": "2",
-    "type": "single",
+    "type": "multiple",
     "stem": "（2012年中级）我国著作权法规定，解决著作权纠纷可采用（ ）等方法。",
     "options": [
       {
@@ -14175,9 +14175,11 @@
         "text": "诉讼"
       }
     ],
-    "answer": "D",
+    "answer": "BDE",
     "answer_letters": [
-      "D"
+      "B",
+      "D",
+      "E"
     ],
     "knowledge_point": "著作权纠纷类型与处理方法",
     "mastery_level": "掌握",
